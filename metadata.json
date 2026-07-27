@@ -1,0 +1,6 @@
+{
+  "name": "Resume Alchemist",
+  "description": "AI-powered resume gap analysis and few-shot bullet point tailoring tool with visual compare views and ATS keyword matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
